@@ -1,0 +1,8 @@
+stone:
+  name: 'Blog'
+  display_name: 'Blog'
+  permission_name: ['permission-access-blog']
+  menu_type: ''
+  menu_icon: 'fe fe-bold'
+  enable: 1,
+  publish: 'public'

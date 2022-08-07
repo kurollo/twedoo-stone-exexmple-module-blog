@@ -1,0 +1,11 @@
+stone:
+  roles:
+      - name: 'Role-Access-Blog'
+        display_name: 'Module Blog'
+        description: 'Management blog of CMS'
+        type: 'main'
+        permissions:
+
+          - name: 'permission-access-blog'
+            display_name: 'Access blog'
+            description: 'Permission management blog'

@@ -1,0 +1,5 @@
+stone:
+  menu:
+    - name_menu: 'blog_stone'
+      route_link: 'blog'
+      mb_permission: 'permission-access-blog'
